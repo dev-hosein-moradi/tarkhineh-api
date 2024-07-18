@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarkhinehAPI", "TarkhinehAPI\TarkhinehAPI.csproj", "{5F6A0561-D911-48CB-AF41-D2D6991B8026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{DA1C2BD5-C1A6-480C-8813-B456F50F8F10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6A0561-D911-48CB-AF41-D2D6991B8026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6A0561-D911-48CB-AF41-D2D6991B8026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6A0561-D911-48CB-AF41-D2D6991B8026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6A0561-D911-48CB-AF41-D2D6991B8026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1C2BD5-C1A6-480C-8813-B456F50F8F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1C2BD5-C1A6-480C-8813-B456F50F8F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1C2BD5-C1A6-480C-8813-B456F50F8F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1C2BD5-C1A6-480C-8813-B456F50F8F10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D1B7B0E-A69E-4EF7-922B-D091045B4289}
+	EndGlobalSection
+EndGlobal
